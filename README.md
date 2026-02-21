@@ -33,8 +33,9 @@ This project is a Django REST API that:
 
 📦 Setup Instructions
     1️- Clone the repository:
-        git clone <your-repo-url>
         cd <project-folder>
+        git clone https://github.com/Damiemmy/fuel_project.git
+        
 
     2- Create virtual environment:
         python -m venv venv
@@ -88,7 +89,7 @@ This project is a Django REST API that:
     No repeated external API calls
 
     Fast response time
-    
+
 -🎥 Demo
 
 A Loom video demonstrating the API and code walkthrough is included with submission.
